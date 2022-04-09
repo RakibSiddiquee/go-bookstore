@@ -5,9 +5,9 @@ Install the following packages:
 
 Next, create a mysql database name "book_store"
 
-Then run the following commands:
-cd cmd/main
-go build
-go run main.go
+Then run the following commands:  
+cd cmd/main  
+go build  
+go run main.go  
 
 After that, test using postman
