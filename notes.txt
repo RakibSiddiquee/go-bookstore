@@ -1,4 +1,4 @@
 MySQL
 Gorm Package
 Gorilla mux
-json marshal & unmarshal
+json marshal unmarshal
